@@ -1,4 +1,4 @@
-Version 1.0
+# Enhanced Lighting and Open Entrance for the Mineshaft  
 
 # English  
 Enhanced Lighting and Open Entrance for the Mineshaft  
@@ -8,6 +8,8 @@ This ressource improves the abandoned mineshaft in GTA 5 by adding an open entra
 1. Download the package containing the resource.  
 2. Move the **"mineshaftlights"** folder into your server’s resource directory.  
 3. Add `ensure mineshaftlights` to your **server.cfg** to activate the resource.
+
+# Verbesserte Beleuchtung und offener Eingang für den Minenschacht 
 
 # Deutsch:  
 Verbesserte Beleuchtung und offener Eingang für den Minenschacht  
