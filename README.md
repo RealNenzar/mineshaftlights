@@ -19,6 +19,3 @@ Diese Ressource verbessert den verlassenen Minenschacht in GTA 5 durch einen off
 3. Füge `ensure mineshaftlights` in deine **server.cfg** ein, um die Ressource zu aktivieren.
 
 ![screenshot 1](https://i.imgur.com/d90f3lf.png)
-
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a>
