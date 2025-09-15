@@ -1,4 +1,4 @@
-# Enhanced Lighting and Open Entrance for the Mineshaft  
+# FiveM Enhanced Lighting and Open Entrance for the Mineshaft  
 
 # English  
 Enhanced Lighting and Open Entrance for the Mineshaft  
